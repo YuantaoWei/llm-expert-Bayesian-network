@@ -17,7 +17,7 @@ This repository collects well-known benchmark networks and datasets, making it e
 | [Insurance](networks/insurance.json) | 27 | 52 | Insurance risk assessment. |
 | [Sachs](networks/sachs.json)     | 11 | 17 | Protein-signaling dataset BN. |
 
-👉 More networks coming soon: Hailfinder, Hepar2, Pathfinder...
+👉 More networks coming soon: 
 
 ---
 
