@@ -1,1 +1,15 @@
+{
+  "name": "Asia",
+  "nodes": ["Asia", "Tuberculosis", "Smoking", "Lung Cancer", "Bronchitis", "Either", "Xray", "Dyspnoea"],
+  "edges": [
+    ["Asia", "Tuberculosis"],
+    ["Tuberculosis", "Either"],
+    ["Smoking", "Lung Cancer"],
+    ["Lung Cancer", "Either"],
+    ["Either", "Xray"],
+    ["Bronchitis", "Dyspnoea"],
+    ["Either", "Dyspnoea"],
+    ["Smoking", "Bronchitis"]
+  ]
+}
 
