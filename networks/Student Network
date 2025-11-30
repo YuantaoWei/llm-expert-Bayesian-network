@@ -1,0 +1,9 @@
+{
+  "name": "Student",
+  "nodes": ["Difficulty", "IQ", "Grade", "Letter", "SAT"],
+  "edges": [
+    ["Difficulty", "Grade",“Letter”],
+    ["IQ", "Grade","letter"],
+    ["IQ", "SAT"],
+  ]
+}
