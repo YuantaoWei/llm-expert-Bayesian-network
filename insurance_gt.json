@@ -79,5 +79,5 @@
   ["Mileage", "Accident", "MedCost"],
 
   ["Mileage", "CarValue", "Theft", "ThisCarCost", "PropCost"],
-  ["Mileage", "CarValue", "ThisCarCost", "PropCost"],
+  ["Mileage", "CarValue", "ThisCarCost", "PropCost"]
 ]
